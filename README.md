@@ -1,0 +1,1 @@
+A simple test to verify a sender's signature and execute an in-contract tx on their behalf
